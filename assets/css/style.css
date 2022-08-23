@@ -12,17 +12,29 @@
 }
 
 @font-face {
-    font-family: 'Dancing Script';
+    font-family: 'Clock Bird';
     font-style: normal;
     font-weight: 400;
-    src: url(/assets/fonts/DancingScript-Regular.ttf);
+    src: url(/assets/fonts/Clock\ Bird.ttf);
 }
 
 @font-face {
-    font-family: 'Century Gothic';
+    font-family: 'Faithful Hand';
     font-style: normal;
     font-weight: 400;
-    src: url(/assets/fonts/GOTHIC.TTF);
+    src: url(/assets/fonts/Faithful\ Hand.ttf);
+}
+@font-face {
+    font-family: 'Homemade Apple';
+    font-style: normal;
+    font-weight: 400;
+    src: url(/assets/fonts/HomemadeApple.ttf);
+}
+@font-face {
+    font-family: 'Go Baaa Handwritten Comic';
+    font-style: normal;
+    font-weight: 400;
+    src: url(/assets/fonts/gobaaahandwrittencomic.ttf);
 }
 
 @font-face {
